@@ -5,6 +5,7 @@ Deputy Secretary, Employment & Skills
 Department of Employment and Workplace Relations
 
 ## Executive Summary
+AI is rapidly redefining jobs and workplace tasks by augmentation and automation. While on paper this imrpoves productivity, it also raises concerns about worker displacement and wage inequality. The proposal evaluates 3 possible policies: workforce reskilling, transition assistance, and AI transparency regulation. This proposal recommends a policy package on large-scale long term reskilling supported by targeted worker protections and transition support in the short term. The recommended policy aims to improve workforce adaptability, reduce inequality, and ensure the benefits of AI adoption are distributed more broadly across society.
 
 ## 1. Problem Definition & Context
 
@@ -71,3 +72,12 @@ KPIs will be things like transition rates and time, retention rate, post trainin
 The recommended policy package still comes with its own risks that need to be mitigated. The training initiative may not reach regional or older groups which can reduce the effectiveness of the training plan. This risk could be mitigated through localized TAFE course qualifications and community programs. Large scale training could also be costly for the government and large companies which means the training could be done in pases starting with local to big companies. 
 
 ## References
+OECD 2023, Artificial intelligence and the labour market, OECD Publishing, Paris, viewed 12 May 2026, <https://www.oecd.org/en/topics/ai-and-work.html>.
+
+OECD 2023, Artificial intelligence and wage inequality, OECD Publishing, Paris, viewed 12 May 2026, <https://www.oecd.org/en/publications/artificial-intelligence-and-wage-inequality_bf98a45c-en.html>.
+
+International Monetary Fund 2024, Gen-AI: Artificial intelligence and the future of work, IMF, Washington DC, viewed 12 May 2026, <https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379>.
+
+World Economic Forum 2023, The future of jobs report 2023, World Economic Forum, Geneva, viewed 12 May 2026, <https://www.weforum.org/reports/the-future-of-jobs-report-2023/>.
+
+McKinsey & Company 2023, Generative AI and the future of work in America, McKinsey Global Institute, viewed 12 May 2026, <https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america>.
