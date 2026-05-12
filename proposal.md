@@ -48,21 +48,26 @@ AI Worker Protection Policy would require companies to always disclose when AI i
 ## 4. Evaluation of Policy Options
 
 | Policy Option | Efficiency | Equity | Feasibility | Cost |
-|---|---|---|---|---|
+
+The policies will be measured using the 4 criteria above. The Re-Skilling Initiative overall for me has the best average score. I believe that the Transition Assistance policy would be too fiscally costly while the third option regarding a protection policy would slow innovation and increase compliance costs. I think that the first option has the best trade off as it solves the root issue of a lack of skills. Re-skilling is also more sustainable than financial assistance or new compliance rules that will slow down innovation. The main concern with this option is the effectiveness of training and implementation.
 
 ## 5. Recommended Package & Implementation Plan
 
 ### Timeline
+For the short term, The second policy of assistance checks may work in reducing the effects of job layoffs while simultaneously implenting the re-skilling/training policy for a long term solution. I am not in favor of the last policy as i think more regulation is not what Australia needs at the moment and this will just delay progress in the AI development sector.
 
 ### Responsibilities
+Institutions needed for these changes are the Department of employement, Educational instituions, industry partnerships, and finally regulatory agencies.
 
 ### Costs
+Main costs will be for the training, and in the short term funds will need to be collected for a assitance package.
 
 ### KPIs
+KPIs will be things like transition rates and time, retention rate, post training evaluations, wage disparity from previous employement, and overall reduction in displacement.
 
 ## 6. Risks & Mitigations
 
 | Risk | Mitigation |
-|---|---|
+The recommended policy package still comes with its own risks that need to be mitigated. The training initiative may not reach regional or older groups which can reduce the effectiveness of the training plan. This risk could be mitigated through localized TAFE course qualifications and community programs. Large scale training could also be costly for the government and large companies which means the training could be done in pases starting with local to big companies. 
 
 ## References
